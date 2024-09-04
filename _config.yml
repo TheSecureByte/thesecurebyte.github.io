@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Roshan"
   avatar : "assets/images/the-secure-byte.png"
-  bio    : "TheSecureByte explores coding and cybersecurity, offering insights and tips for beginners and young developers to tackle tech challenges."
+  bio    : "TheSecureByte explores Coding and CyberSecurity, offering insights and tips for beginners and young developers to tackle tech challenges."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
